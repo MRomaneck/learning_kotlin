@@ -9,6 +9,7 @@ fun main ()
     var seven = 7
 
 
+
     for (i:Int in 0..100 step 7) println ("wuirto agregar ${i}")
 
 }
